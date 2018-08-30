@@ -1,4 +1,4 @@
-package Thompson;
+package Principal;
 /*
     Thompson.java
         Compiler for Regular Expressions to Non-Deterministic Finite 
