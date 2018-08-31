@@ -2,11 +2,11 @@ package Principal;
 
 public class AnalizadorLexico {
 	
-	public AnalizadorLexico(String er, String alf, String lexema){
-		validaLexema();
+	public AnalizadorLexico(){
+		
 	}
 	
-	public Boolean validaLexema(){
+	public Boolean validaLexema(String regex, String lexema){
 		
 		
 		return null; 
