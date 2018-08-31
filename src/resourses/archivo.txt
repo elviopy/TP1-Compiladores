@@ -1,2 +1,2 @@
-ab+ aba+ ab+a+
-abbb abaaa abbaa
+(a|c)*abb aba* ab*a*
+abb abaaa abbaa
